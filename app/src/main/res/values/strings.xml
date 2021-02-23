@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beagle Poc</string>
+    <string name="helloWorld_string">HelloWorld</string>
+</resources>
